@@ -1,0 +1,6 @@
+{
+  "name": "claude-code-workspaces",
+  "description": "Git worktree workspace manager for parallel development",
+  "version": "1.0.0",
+  "author": { "name": "gcassarini" }
+}

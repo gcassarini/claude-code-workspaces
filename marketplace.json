@@ -1,0 +1,7 @@
+{
+  "name": "gcassarini-claude-code-workspaces",
+  "description": "Git worktree workspace management for Claude Code",
+  "plugins": [
+    { "name": "claude-code-workspaces", "path": "." }
+  ]
+}
